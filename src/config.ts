@@ -1,17 +1,17 @@
 const countries = [
     { 
       youtubeVideoId: 'ZjPwX0jrJnw',
-      name: { common: 'استراليا' }, 
+      name: { common: 'Australia' }, 
       flags: { png: '/flags/australia.jpg' }, 
       cca3: 'AUS',
-      description: 'بلد متنوع وحيوي معروف بحياته البرية الفريدة والحاجز المرجاني العظيم.'
+      description: 'A diverse and vibrant country known for its unique wildlife and the Great Barrier Reef.'
     },
     { 
       youtubeVideoId: 'hVcS-3lJYvc',
-      name: { common: 'عمان' }, 
+      name: { common: 'Oman' }, 
       flags: { png: '/flags/oman.avif' }, 
       cca3: 'OM',
-      description:"عُمان (رسمياً: سَلْطَنَةُ عُمَان)، هي دولة عربية تقع في غرب آسيا في الربع الجنوبي الشرقي من شبه الجزيرة العربية. تقع بين خطي عرض 16° 40' و20' 26° شمالا وبين خطي طول 50' 51°و 40' °59 شرقا. يحدها من الشمال خليج عمان ومضيق هرمز ومن الشمال الغربي الإمارات العربية المتحدة ومن الغرب المملكة العربية السعودية ومن الجنوب اليمن ومن الجنوب الشرقي بحر العرب. تغطي مساحة إجمالية تبلغ 309.500 كم² وهي بذلك تحتل المرتبة الثالثة من حيث المساحة في شبه الجزيرة العربية."
+      description:"Oman (officially: the Sultanate of Oman) is an Arab country located in western Asia in the southeastern quarter of the Arabian Peninsula. It lies between latitudes 16° 40' and 26° 20' North and longitudes 51° 50' and 59° 40' East. It is bordered by the Gulf of Oman and the Strait of Hormuz to the north, the United Arab Emirates to the northwest, Saudi Arabia to the west, Yemen to the south, and the Arabian Sea to the southeast. It covers a total area of 309,500 km², making it the third-largest country in the Arabian Peninsula."
     },
     { 
       youtubeVideoId: 'dQw4w9WgXcQ',
